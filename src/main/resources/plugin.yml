@@ -1,0 +1,4 @@
+name: lobbySignin
+main: com.mcndsj.lobby_signin.LobbySignIn
+version: 0.0.1-SNAPSHOT
+depend: [HolographicDisplays, lobbyMoney, lobbyVip]
